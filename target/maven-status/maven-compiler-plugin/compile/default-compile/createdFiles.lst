@@ -1,0 +1,6 @@
+com\empresa\reversos\dto\DetalleReversoTotalDto.class
+com\empresa\reversos\service\DetalleReversosService.class
+com\empresa\reversos\controller\DetalleReversosController.class
+com\empresa\reversos\ReversosApplication.class
+com\empresa\reversos\repository\ReversosRepository.class
+com\empresa\reversos\dto\DetalleReversoDto.class

@@ -1,0 +1,12 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /api
+
+spring:
+  datasource:
+    url: jdbc:oracle:thin:@//10.54.46.104:4410/TDIBDDES
+    username: TTA_SWT_ADM
+    password: yj3$9BAC830B697
+    driver-class-name: oracle.jdbc.OracleDriver
+
